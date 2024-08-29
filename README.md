@@ -10,7 +10,7 @@
 
 文系（人文・社会科学系）の和文文献の収集・整理に特化した文献管理ツールです。  
 
-<img width="500" alt="jemref_img_index" src="https://github.com/user-attachments/assets/8695e016-0aa3-4728-ae8b-1cf82f93c4c8">
+ <img width="500" alt="jemref_img_index" src="https://github.com/user-attachments/assets/e86b7704-cd3e-4adc-9921-42a89c0ca7bf">
 
 課題意識や特長については、READMEをご覧ください。  
 （url）
