@@ -1,4 +1,4 @@
-<h1 style="border-left: solid 3px gray; padding-left: 20px;"> プロフィール</h1>
+<h1> プロフィール</h1>
 青柳 翔也（あおやぎ しょうや）  
 
 1995年3月22日、秋田県生まれ（29歳）。  
@@ -32,7 +32,7 @@
 ## 研究の概略
 ### リサーチ・クエスチョン「音楽は学校で教育できるのか？」  
 <details>
-<summary style="margin: 10px 0; padding: 2px 8px; width: 8em; color: black; background-color: #ddd; border: solid 2px gray; border-radius: 8px; cursor: pointer;">もう少し詳しく</summary>
+<summary style="cursor: pointer;">もう少し詳しく</summary>
 <p>学校教育において、音楽科はながらく「周辺教科」とされてきました。</br>
 そのため音楽教育の研究は、音楽のすばらしさを主張し、音楽科を「主要教科」とすることを、ほとんど自明の課題としています。</p> 
 <p>しかし私は、こうした音楽教育研究（者）のあり方に、違和感を感じ続けていました。</br>
